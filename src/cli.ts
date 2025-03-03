@@ -3,7 +3,7 @@
 import yargs from "yargs";
 import { hideBin } from "yargs/helpers";
 import { launchToken } from "./launch";
-import { monitorAndAutoSell } from "./manager";
+import { monitorAndAutoSell } from "./sell";
 
 /**
  * CLI Setup

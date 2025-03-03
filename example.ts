@@ -1,5 +1,5 @@
 import { launchToken } from "./src/launch";
-import { monitorAndAutoSell } from "./src/manager";
+import { monitorAndAutoSell } from "./src/sell";
 
 class Example {
   private deployerPrivatekey: string;
